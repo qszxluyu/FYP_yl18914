@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\宇\.Rider2018.1\System\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_FYP_Serial_Quat1.1987945505.00" t="ExcludeRecursive" />
+    <e p="D:\Study&amp;Work\FYP_test\FYP_Serial_Quat" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Racket" t="Include">
+          <e p="MoveWithAccel.txt" t="Include" />
+          <e p="MoveWithAccelZeroMean.txt" t="Include" />
+          <e p="overturn.txt" t="Include" />
+          <e p="RacketMovement.cs" t="Include" />
+          <e p="random.txt" t="Include" />
+          <e p="stable.txt" t="Include" />
+          <e p="StableWithAccel.txt" t="Include" />
+          <e p="StableWithAccelZeroMean.txt" t="Include" />
+        </e>
+        <e p="Scenes" t="Include">
+          <e p="FollowTarget.cs" t="Include" />
+        </e>
+        <e p="SerialComm" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Samples" t="Include">
+              <e p="SampleCustomDelimiter.cs" t="Include" />
+              <e p="SampleMessageListener.cs" t="Include" />
+              <e p="SampleTearDown.cs" t="Include" />
+              <e p="SampleUserPolling_JustRead.cs" t="Include" />
+              <e p="SampleUserPolling_ReadWrite.cs" t="Include" />
+            </e>
+            <e p="SerialController.cs" t="Include" />
+            <e p="SerialControllerCustomDelimiter.cs" t="Include" />
+            <e p="Threads" t="Include">
+              <e p="AbstractSerialThread.cs" t="Include" />
+              <e p="SerialThread.cs" t="Include" />
+              <e p="SerialThreadCustomDelimiter.cs" t="Include" />
+              <e p="SerialThreadLines.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="FYP_Serial_Quat.csproj" t="IncludeRecursive" />
+      <e p="FYP_Serial_Quat1.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="UnityVS_bin\Debug" t="ExcludeRecursive" />
+        <e p="UnityVS_obj\Debug" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
